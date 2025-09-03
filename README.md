@@ -5,4 +5,4 @@ Hi there, I'm Garvit Arora, aka, Gurface👋
 - 🔭 I’m currently working on web scraping, proxies, flask/django web development, ml/ai
 - 🌱 I’m currently learning Python DJANGO, WEB DEVELOPMENT, ML/AI
 - 👯 I’m free to collaborate with anyone.
-- 😄 Pronouns: he/she
+- 😄 Pronouns: he/him
