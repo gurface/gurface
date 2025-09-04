@@ -1,5 +1,6 @@
 <h1>Hi there, I'm Garvit Arora, aka, Gurface👋</h1>
 -> 14 year old programmer...
+
 - 🔭 I’m currently working on web scraping, proxies, flask/django web development, ml/ai
 - 🌱 I’m currently learning Python DJANGO, React, WEB DEVELOPMENT, ML/AI
 - 👯 I’m free to collaborate with anyone.
