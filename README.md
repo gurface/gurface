@@ -1,4 +1,4 @@
-**Hi there, I'm Garvit Arora, aka, Gurface👋**
+<h1>**Hi there, I'm Garvit Arora, aka, Gurface👋**</h1>
 -> 14 year old programmer...
 
 - 🔭 I’m currently working on web scraping, proxies, flask/django web development, ml/ai
@@ -6,9 +6,9 @@
 - 👯 I’m free to collaborate with anyone.
 - 😄 Pronouns: he/him
 
-**Tech Stack**
+<h2>**Tech Stack**</h2>
 
-Languages, libraries I work with - 
+<h3>Languages, libraries I work with - </h3>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -16,7 +16,7 @@ Languages, libraries I work with -
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 
-Frameworks, DataBases, LLMs etc - 
+<h3>Frameworks, DataBases, LLMs etc - </h3>
 <br>
 <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
