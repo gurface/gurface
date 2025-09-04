@@ -1,4 +1,4 @@
-<h1>**Hi there, I'm Garvit Arora, aka, Gurface👋**</h1>
+<h1>Hi there, I'm Garvit Arora, aka, Gurface👋</h1>
 -> 14 year old programmer...
 
 - 🔭 I’m currently working on web scraping, proxies, flask/django web development, ml/ai
@@ -6,7 +6,7 @@
 - 👯 I’m free to collaborate with anyone.
 - 😄 Pronouns: he/him
 
-<h2>**Tech Stack**</h2>
+<h2>Tech Stack</h2>
 
 <h3>Languages, libraries I work with - </h3>
 <br>
